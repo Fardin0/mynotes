@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "60439251793",
+    "project_id": "inotes2906",
+    "storage_bucket": "inotes2906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60439251793:android:fb884e2923f9a460cda170",
+        "android_client_info": {
+          "package_name": "com.hello.inotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60439251793-a2r7ide8crqddb9mtmepqd495d3bmjag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7R19GjRg_Jk5cCBq79v7OP-Ji564W0Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60439251793-a2r7ide8crqddb9mtmepqd495d3bmjag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "60439251793-ulimi62h4tc3ckucs8mdmhfm6ajcrjcn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hello.inotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
