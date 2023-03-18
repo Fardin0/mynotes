@@ -1,5 +1,7 @@
 //import 'package:js/js.dart';
 
+//import 'dart:js';
+
 import 'package:firebase_core/firebase_core.dart';
 //import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
@@ -22,6 +24,7 @@ void main() {
       routes: {
         '/login/': (context) => const Loginview(),
         '/register/': (context) => const RegisterView(),
+        '/notes/': (context) => const NotesView(),
       },
     ),
   );
